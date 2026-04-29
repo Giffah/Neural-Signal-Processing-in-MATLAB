@@ -180,7 +180,7 @@ The project selection directly reflects methods relevant to computational neuros
 
 | Week | Sessions | Capstone |
 |------|----------|----------|
-| Week 1 — Signal Fundamentals | ⬜⬜⬜⬜⬜⬜ | ⬜ |
+| Week 1 — Signal Fundamentals | ✅⬜⬜⬜⬜⬜ | ⬜ |
 | Week 2 — Decomposition & BSS | ⬜⬜⬜⬜⬜⬜ | ⬜ |
 | Week 3 — Neural Signals & EEG | ⬜⬜⬜⬜⬜⬜ | ⬜ |
 | Week 4 — Dynamical Systems | ⬜⬜⬜⬜⬜⬜⬜ | ⬜ |
